@@ -14,7 +14,7 @@ Welcome to the Xindus Assignment repository! This backend application serves as 
  
 ### Installation
 Step1:- Clone the repository to your local machine:
-- git clone - am-an786/xindus-wishlist-management
+- git clone - gh repo clone am-an786/xindus-wishlist-management
 
 Step2:- Navigate to the project directory:
 - cd XindusWishlistManagement
